@@ -19,8 +19,5 @@
             "": "system/modules/mstudio-dev/contao-newsticker"
           }
       }
-  },
-  "require": {
-     "php": "^7.0"
- }
+  }
 }
