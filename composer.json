@@ -13,15 +13,14 @@
             "role": "Developer"
         }
     ],
-     "require": {
-        "php": "^7.0"         
-    }
-  },    
-    "extra": {
-        "contao": {
-           "sources": {
-              "": "system/modules/mstudio-dev/contao-newsticker"
-            }             
-        }
-    }
+  "extra": {
+      "contao": {
+         "sources": {
+            "": "system/modules/mstudio-dev/contao-newsticker"
+          }
+      }
+  },
+  "require": {
+     "php": "^7.0"
+ }
 }
