@@ -17,11 +17,11 @@
         "php": "^7.0"         
     }
   },
-    {
+    
     "extra": {
         "contao": {
            "sources": {
-              "TL_ROOT/system/modules/mstudio-dev/contao-newsticker": "system/modules/mstudio-dev/contao-newsticker",
+              "": "system/modules/mstudio-dev/contao-newsticker",
             }
              
         }
