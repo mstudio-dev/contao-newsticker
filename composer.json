@@ -16,14 +16,12 @@
      "require": {
         "php": "^7.0"         
     }
-  },
-    
+  },    
     "extra": {
         "contao": {
            "sources": {
-              "": "system/modules/mstudio-dev/contao-newsticker",
-            }
-             
+              "": "system/modules/mstudio-dev/contao-newsticker"
+            }             
         }
     }
 }
