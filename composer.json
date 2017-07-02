@@ -16,7 +16,7 @@
      "require": {
         "php": "^7.0"         
     }
-  }
+  },
     {
     "extra": {
         "contao": {
