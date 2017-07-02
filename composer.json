@@ -20,10 +20,8 @@
     {
     "extra": {
         "contao": {
-            /* sources wird immer synchronisiert, alte Dateien gelöscht, neue hinzugefügt, veränderte überschrieben */
-            "sources": {
-                /* Beispiel */
-                "TL_ROOT/system/modules/mstudio-dev/contao-newsticker": "system/modules/mstudio-dev/contao-newsticker",
+           "sources": {
+              "TL_ROOT/system/modules/mstudio-dev/contao-newsticker": "system/modules/mstudio-dev/contao-newsticker",
             }
              
         }
