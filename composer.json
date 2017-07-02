@@ -1,5 +1,5 @@
 {
-    "name": "mstudio/contao-newsticker",
+    "name": "mstudio-dev/contao-newsticker",
     "type": "library",
     "description": "Contao Newsticker",
     "keywords": ["contao","ticker"],
