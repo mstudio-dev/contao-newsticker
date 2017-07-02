@@ -1,0 +1,27 @@
+<!--<div class="marquee <?php /*echo $this->class; */?> block"<?php /*echo $this->cssID; */?><?php /*if ($this->style): */?> style="<?php /*echo $this->style; */?>"<?php /*endif; */?>>
+<?php /*if ($this->ticker): */?>
+ 
+<?php /*echo $this->ticker; */?>
+<?php /*endif; */?>
+ 
+<?php /*foreach ($this->newstickers as $newsticker): */?>
+	<span> +++ <?php /*echo $newsticker['ticker']; */?> +++ </span>
+	
+<?php /*endforeach; */?>
+ 
+</div>
+
+-->
+<div class="marquee <?php echo $this->class; ?> block"<?php echo $this->cssID; ?><?php if ($this->style): ?> style="<?php echo $this->style; ?>"<?php endif; ?>>
+	<?php if ($this->ticker): ?>
+
+		<?php echo $this->ticker; ?>
+	<?php endif; ?>
+
+	<?php foreach ($this->newstickers as $newsticker): ?>
+		<span> +++ <?php echo $newsticker['ticker']; ?> +++ </span>
+
+	<?php endforeach; ?>
+
+</div>
+
