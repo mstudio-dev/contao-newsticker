@@ -1,6 +1,6 @@
 {
     "name": "mstudio-dev/contao-newsticker",
-    "type": "library",
+    "type": "contao-module",
     "description": "Contao Newsticker",
     "keywords": ["contao","ticker"],
     "homepage": "https://github.com/mstudio-dev",
