@@ -16,7 +16,7 @@
   "extra": {
       "contao": {
          "sources": {
-            "": "system/modules/mstudio-dev/contao-newsticker"
+            "module": "system/modules/mstudio-dev/contao-newsticker"
           }
       }
   }
